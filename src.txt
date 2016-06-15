@@ -1,0 +1,1 @@
+'racecar':a:b;a,1-:s:j;{a 0=a s==}:f;{f{a 1>s 1-<:a;s 2-:s;}~}j 1+2/*{{b' is a palindrome'+:o;}{b' is not a palindrome'+:o;{.;}:if;}if} j 1+2/*{;}j 2**o
