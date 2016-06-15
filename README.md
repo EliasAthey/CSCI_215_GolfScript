@@ -1,2 +1,4 @@
 # CSCI_215_GolfScript
-A codegolf program in Golfscript that determines if a string is a palindrome. Developed for my CSCI 215 final project.
+A codegolf program in GolfScript that determines if a string is a palindrome. Developed for my CSCI 215 final project.
+
+GolfScript (GS) is an esoteric language (esolang)-meaning it is not used professionally but instead to show the possibilities of a programming language. More specifically, GS is an esolang designed for codegolf competitions. Codegolf is the honorary sport of software developers, similar to its namesake sport of golf where the goal is to score in the least number of strokes, the goal of codegolf is to solve a problem with as few characters as possible. To achieve this, many esolangs like GS have been created that minimize the number of characters used to complete a task. This results in most codegolf programs looking like complete randomness and seemingly impossible to interpret. Despite its complexity-and perhaps because of it-GS is an extremely fun and interesting esolang to work with.
