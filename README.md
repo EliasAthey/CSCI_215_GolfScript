@@ -3,7 +3,7 @@ A codegolf program in GolfScript that determines if a string is a palindrome. De
 
 # GolfScript Palindrome Program
 
-This GS code takes any all-lowercase string and determines if its is a palindrome. This code runs through the ruby interpreter golfscript.rb (available at http://www.golfscript.com/golfscript/golfscript.rb).
+This GS code takes any all-lowercase string and determines if it is a palindrome. This code runs through the ruby interpreter golfscript.rb (available at http://www.golfscript.com/golfscript/golfscript.rb).
 
 To run through Terminal/Command Line: ruby golfscript.rb src.gs
 
