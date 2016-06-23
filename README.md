@@ -17,5 +17,7 @@ GS was first released by Darren Smith on December 13, 2007. Originally it was im
 
 # Sources
 The GS wiki on esolangs.org: https://esolangs.org/wiki/GolfScript
+
 The official GS website: http://www.golfscript.com/golfscript/index.html
+
 Online GS Interpreter: http://golfscript.apphb.com
